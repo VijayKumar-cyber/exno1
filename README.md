@@ -21,6 +21,7 @@ STEP 5: Remove outliers using IQR
 STEP 6: Use zscore of to remove outliers
 
 # Coding and Output
+<img width="1209" height="874" alt="Screenshot 2025-09-08 103552" src="https://github.com/user-attachments/assets/6f9653d4-8a98-46ce-9e81-4197ded92f26" />
 <img width="982" height="291" alt="Screenshot 2025-09-08 104119" src="https://github.com/user-attachments/assets/f80df63a-e23b-4269-b553-fde2899a2393" />
 <img width="755" height="335" alt="Screenshot 2025-09-08 104105" src="https://github.com/user-attachments/assets/2a6ffa82-2b4b-46cc-a76c-c9ccbc5e46e2" />
 <img width="461" height="299" alt="Screenshot 2025-09-08 104054" src="https://github.com/user-attachments/assets/5d2f3966-2296-4dfa-a658-7c273e6eee36" />
@@ -34,7 +35,6 @@ STEP 6: Use zscore of to remove outliers
 <img width="1441" height="880" alt="Screenshot 2025-09-08 103743" src="https://github.com/user-attachments/assets/3a9a2e38-a784-4e3f-9741-0ab0ab0c73ca" />
 <img width="1479" height="324" alt="Screenshot 2025-09-08 103728" src="https://github.com/user-attachments/assets/518f2e3b-01ad-4a1d-ab42-fa7d19fb5692" />
 <img width="1464" height="385" alt="Screenshot 2025-09-08 103706" src="https://github.com/user-attachments/assets/c2f7929c-50ce-41ed-ac7c-148d36e834d6" />
-<img width="1209" height="874" alt="Screenshot 2025-09-08 103552" src="https://github.com/user-attachments/assets/6f9653d4-8a98-46ce-9e81-4197ded92f26" />
 
 # Result
           this is the result after the data cleaning 
